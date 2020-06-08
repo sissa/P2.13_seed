@@ -1,6 +1,13 @@
 # P2.13_seed
 
+# Teachers
 
+- Alessio Ansuini 
+- Cristiano De Nobili
+
+Follow up
+
+- Piero Coronica 
 
 
 # Resources
