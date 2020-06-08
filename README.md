@@ -1,16 +1,40 @@
-# P2.13_seed
+# P2.13_seed 
+
+# Deep Learning
+
+The information on this course is still a bit incomplete,
+we will make updates during the course.
+
+### Main Topics
+
+- Artificial neural networks
+- Train, validate and test a deep learning model
+- Convolutional neural networks
+- Brief remarks on unsupervised models
+
+- Natural Language Processing
+- Transformers and contextual word embeddings
+- PyTorch, SpaCy and Hugging Face libraries
 
 # Teachers
 
-- Alessio Ansuini 
-- Cristiano De Nobili
+- Alessio Ansuini (AREA Science Park)
+- Cristiano De Nobili (SAMSUNG)
 
-Follow up
+Follow-up
 
-- Piero Coronica 
+- Piero Coronica (University of Cambridge)
 
 
 # Resources
+
+There are excellent free resources to deepen your knowledge
+on topics such as Deep Learning, Reinforcement Learning and more
+in general Artificial Intelligence.
+
+Here is a selection of a few of these. This selection will
+be updated in the next days/weeks.
+
 
 *******************************************************************
 Books for free
@@ -28,6 +52,10 @@ Books for free
   in a single pdf version
 
   https://github.com/janishar/mit-deep-learning-book-pdf
+  
+- Information Theory, Pattern Recognition, and Neural Networks (Dave McKay)
+
+  http://www.inference.org.uk/mackay/itprnn/book.html
 
 
 
@@ -51,6 +79,12 @@ Courses for free
 - Neural network class (Hugo Larochelle)
 
   https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+  
+  
+- Information Theory, Pattern Recognition, and Neural Networks (Dave McKay)
+  (See also the accompanying book)
+
+  https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6
 
 
 *******************************************************************
