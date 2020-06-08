@@ -26,6 +26,16 @@ Follow-up
 - Piero Coronica (University of Cambridge)
 
 
+# Videos
+
+In order to see videos it is suggested to download it (otherwise only previews are available)
+
+- Day 1 (09/06/2020) Exercises 
+
+  https://www.dropbox.com/s/8xcdd4be31xc0t5/P2.13_seed_Day1_Exercises.mp4?dl=0
+  
+
+
 # Resources
 
 There are excellent free resources to deepen your knowledge
