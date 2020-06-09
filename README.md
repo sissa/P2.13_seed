@@ -25,14 +25,36 @@ Follow-up
 
 - Piero Coronica (University of Cambridge)
 
+# Detailed Syllabus (First Part by Alessio Ansuini UNDER CONSTRUCTION)
+
+Here I will attach references of materials that inspired each of the arguments I touched upon
+
+- Day 1
+
+- Day 2 
+
+- Day 3
+
+
+# Exam
+
+The exam will consist in an exploration of a recent finding on network pruning
+called "The Lottery Ticket Hypothesis"
+
+Other information will be added soon
+
 
 # Videos
 
-In order to see videos it is suggested to download it (otherwise only previews are available)
+In order to see a video I suggest to download it (otherwise only shortened previews are available)
 
-- Day 1 (09/06/2020) Exercises 
+- Day 1 (08/06/2020) Exercises 
 
   https://www.dropbox.com/s/8xcdd4be31xc0t5/P2.13_seed_Day1_Exercises.mp4?dl=0
+  
+- Day 2 (09/06/2020) Exercises
+   
+  https://www.dropbox.com/s/axj8z8rdm6rbrc4/P2.13_seed_Day2_Exercises.mp4?dl=0
   
 
 
