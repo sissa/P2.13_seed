@@ -5,7 +5,7 @@
 This is the first part of the Deep Learning Course for the Master in High-Performance Computing (SISSA/ICTP):
 **Introduction to Neural Networks**.
 
-You can find [here](https://github.com/denocris/MHPC-Natural-Language-Processing-Lectures-2020) the second part of the course, **Natural Language Processing**, by Cristiano De Nobili.
+You can find [here](https://github.com/denocris/MHPC-Natural-Language-Processing-Lectures-2020) the second part of the course, **Natural Language Processing**, by [Cristiano De Nobili](https://www.linkedin.com/in/cristiano-de-nobili/).
 
 
 ### Main Topics
@@ -93,8 +93,7 @@ There are excellent free resources to deepen your knowledge
 on topics such as Deep Learning, Reinforcement Learning and more
 in general Artificial Intelligence.
 
-Here is a selection of a few of these. This selection will
-be updated in the next days/weeks.
+Here is a selection of very good ones.
 
 
 *******************************************************************
