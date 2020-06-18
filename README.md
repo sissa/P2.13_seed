@@ -28,9 +28,9 @@ You can find [here](https://github.com/denocris/MHPC-Natural-Language-Processing
 - Alessio Ansuini (AREA Science Park)
 - Cristiano De Nobili (HARMAN International, a Samsung Company)
 
-Follow-up
+Follow-up course P2.14: [Deep generative models with TensorFlow 2](https://gitlab.developers.cam.ac.uk/pc620/dl_course)
 
-- Piero Coronica (University of Cambridge)
+- Piero Coronica (RSE @ Research Computing Services - University of Cambridge)
 
 # Detailed Syllabus of the First Part
 
