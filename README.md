@@ -26,7 +26,7 @@ You can find [here](https://github.com/denocris/MHPC-Natural-Language-Processing
 # Teachers
 
 - Alessio Ansuini (AREA Science Park)
-- Cristiano De Nobili (SAMSUNG)
+- Cristiano De Nobili (HARMAN International, a Samsung Company)
 
 Follow-up
 
